@@ -1,6 +1,6 @@
 # Hi there, I'm Serhii
 
-## I'm a Developer who want to be great
+## I'm a Developer who wants to be great
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about System Design
