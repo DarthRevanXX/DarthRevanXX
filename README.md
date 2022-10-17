@@ -28,4 +28,5 @@
 
 ### 📕 Latest Blog Posts
 
-Work in progress...
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
