@@ -29,4 +29,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Set up TypeScript project from scratch](https://dev.to/darthrevanxx/set-up-ts-project-from-scratch-34m1)
+- [How to Fetch API Data with UseEffect](https://dev.to/darthrevanxx/how-to-fetch-api-data-with-useeffect-and-suspense-51m2)
 <!-- BLOG-POST-LIST:END -->
