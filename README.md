@@ -3,7 +3,7 @@
 ## I'm a Developer who wants to be great
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Learn more about System Design
+- 🥅 2024 Goals: Learn more about System Design
 
 ### Connect with me:
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/serhii-zadorozhnyi-2bb689170/)
